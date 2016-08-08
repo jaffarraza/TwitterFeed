@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterFeed</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+</resources>
